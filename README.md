@@ -29,36 +29,36 @@ Kevin Mitnick birthday	6	august	1963
 Archie (first search engine) launched	10	september	1990  
 Kali Linux first release	13	march	2013 
 Richard Stallman birthday	16	march	1953  
-Python first release	20	febrary	1991  
-Mosaic (first browser) release	23	january	1993  
-Hashcat first release	24	december	2009  
-The first dork was published in the Google Hacking Database	24	june	2003
-First Linux announcement	25	august	1991
-First GNU announc	27	september	1983
-Linus Torvalds birthday	28	december	1969
-BlackArch first release	29	march	2015
-Francesco Vianello birthday	30	january	1952
-Guido van Rossum birthday 	31	january	1956
-Tor network initial release	20	september	2002
-Aircrack ng first release	19	march	2006
-Netcat release	28	october	1995
-Nikto release	27	december	2001
-Curl	11	november	1996
-Brian fox birthday	11	december	
-Kevin polsen birthday	30	november	1965
-Aaron Swartz birthday	8	november	1986
-Tim Bernce Lee Birthday	8	june	1955
-Github launch	10	april	2008
-Phrack magazine first issue	17	november	1985
-2060 magazine first issue	2	january	1987
-Raspberry Pi Model B release	29	febrary	2012
-Owasp	2	december	2001
-Cve	8	january	1999
-First domain registred	15	march	1985
-Debian first release	15	september	1993
-Bitcoin pizza transaction	22	may	2010
-First bitcoin atm	2	may	2013
-John Draper birthday	11	march	1943
-Tsurugi linux	3	november	2018
-First Black Hat conference	7	july	1997
-First DEF CON 9 june 1993
+Python first release	20	febrary	1991   
+Mosaic (first browser) release	23	january	1993    
+Hashcat first release	24	december	2009    
+The first dork was published in the Google Hacking Database	24	june	2003  
+First Linux announcement	25	august	1991  
+First GNU announc	27	september	1983 
+Linus Torvalds birthday	28	december	1969  
+BlackArch first release	29	march	2015 
+Francesco Vianello birthday	30	january	1952  
+Guido van Rossum birthday 	31	january	1956 
+Tor network initial release	20	september	2002  
+Aircrack ng first release	19	march	2006  
+Netcat release	28	october	1995  
+Nikto release	27	december	2001  
+Curl	11	november	1996  
+Brian fox birthday	11	december	1959  
+Kevin polsen birthday	30	november	1965  
+Aaron Swartz birthday	8	november	1986  
+Tim Bernce Lee Birthday	8	june	1955  
+Github launch	10	april	2008  
+Phrack magazine first issue	17	november	1985  
+2060 magazine first issue	2	january	1987  
+Raspberry Pi Model B release	29	febrary	2012  
+Owasp	2	december	2001  
+Cve	8	january	1999  
+First domain registred	15	march	1985  
+Debian first release	15	september	1993  
+Bitcoin pizza transaction	22	may	2010  
+First bitcoin atm	2	may	2013  
+John Draper birthday	11	march	1943  
+Tsurugi linux	3	november	2018  
+First Black Hat conference	7	july	1997  
+First DEF CON 9 june 1993  
