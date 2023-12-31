@@ -20,18 +20,18 @@ If you don't agree with this calendar at all, you can take the blank template fr
 
 ## Dates that are already on the calendar:
 
-Nmap first release	1	september	1997
-Vim first release	2	november	1991
-Mined the genesis block of bitcoin	3	january	2009
-Eric Raymond Birthday	4	december	1957
-Nuclei first release	4	april	2020
-Kevin Mitnick birthday	6	august	1963
-Archie (first search engine) launched	10	september	1990
-Kali Linux first release	13	march	2013
-Richard Stallman birthday	16	march	1953
-Python first release	20	febrary	1991
-Mosaic (first browser) release	23	january	1993
-Hashcat first release	24	december	2009
+Nmap first release	1	september	1997  
+Vim first release	2	november	1991  
+Mined the genesis block of bitcoin	3	january	2009  
+Eric Raymond Birthday	4	december	1957  
+Nuclei first release	4	april	2020  
+Kevin Mitnick birthday	6	august	1963  
+Archie (first search engine) launched	10	september	1990  
+Kali Linux first release	13	march	2013 
+Richard Stallman birthday	16	march	1953  
+Python first release	20	febrary	1991  
+Mosaic (first browser) release	23	january	1993  
+Hashcat first release	24	december	2009  
 The first dork was published in the Google Hacking Database	24	june	2003
 First Linux announcement	25	august	1991
 First GNU announc	27	september	1983
