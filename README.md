@@ -53,7 +53,7 @@ Phrack magazine first issue	17	november	1985
 2060 magazine first issue	2	january	1987  
 Raspberry Pi Model B release	29	febrary	2012  
 Owasp	2	december	2001  
-Cve	8	january	1999  
+Towards a Common Enumeration of Vulnerabilities publication	8	january	1999  
 First domain registred	15	march	1985  
 Debian first release	15	september	1993  
 Bitcoin pizza transaction	22	may	2010  
