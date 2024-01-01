@@ -24,9 +24,9 @@ You can download the calendar in ICS format and import it into your calendar app
 <img src="https://github.com/cipher387/hacker-calendar/blob/main/ics_file_import.png" width="100%" />
 
 
-If you want to make changes to the calendar, edit the CSV file hacker_calendar_2024.csv and convert it to ICS using (this service)[https://csv-to-ical.chimbori.com/]
+If you want to make changes to the calendar, edit the CSV file hacker_calendar_2024.csv and convert it to ICS using [this service](https://csv-to-ical.chimbori.com/).
 
-<img src="[https://github.com/cipher387/hacker-calendar/blob/main/ics_file_import.png](https://github.com/cipher387/hacker-calendar/blob/main/csv_calendar_example.png)" width="100%" />
+<img src="hhttps://github.com/cipher387/hacker-calendar/blob/main/csv_calendar_example.png" width="100%" />
 
 
 
