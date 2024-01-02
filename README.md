@@ -19,12 +19,12 @@ If you don't agree with this calendar at all, you can take the blank template fr
 
 
 
-You can download the calendar in ICS format and import it into your calendar application.
+You can download the calendar in [ICS](https://github.com/cipher387/hacker-calendar/blob/main/hacker_calendar_2024.ics) format and import it into your calendar application.
 
 <img src="https://github.com/cipher387/hacker-calendar/blob/main/ics_file_import.png" width="100%" />
 
 
-If you want to make changes to the calendar, edit the CSV file hacker_calendar_2024.csv and convert it to ICS using [this service](https://csv-to-ical.chimbori.com/).
+If you want to make changes to the calendar, edit the CSV file [hacker_calendar_2024.csv](https://github.com/cipher387/hacker-calendar/blob/main/hacker_calendar_2024.csv) and convert it to ICS using [this service](https://csv-to-ical.chimbori.com/).
 
 <img src="https://github.com/cipher387/hacker-calendar/blob/main/csv_calendar_example.png" width="100%" />
 
